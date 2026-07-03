@@ -15,7 +15,7 @@ from data_processing import preprocess, get_kpis, producao_por_separador, produc
 # ============================================================================
 
 st.set_page_config(
-    page_title="Dashboard Tidimar Hospitalar",
+    page_title="Dashboard Estoque -  Tidimar Hospitalar",
     page_icon="[DASH]",
     layout="wide",
     initial_sidebar_state="expanded"
