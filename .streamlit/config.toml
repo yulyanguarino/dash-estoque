@@ -1,0 +1,19 @@
+# Configuração do Streamlit — tema dark nativo
+
+[theme]
+
+primaryColor = "#76C043"
+backgroundColor = "#0e1117"
+secondaryBackgroundColor = "#161b22"
+textColor = "#e6edf3"
+font = "sans serif"
+
+[client]
+showErrorDetails = true
+
+[logger]
+level = "info"
+
+[server]
+port = 8501
+headless = true
